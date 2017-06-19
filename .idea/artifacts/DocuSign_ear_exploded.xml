@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="DocuSign:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DocuSign_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Hot-or-Cold/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
